@@ -33,7 +33,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "start": "node launch.json",
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Manav Garg",
